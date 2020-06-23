@@ -4,11 +4,6 @@
 
 <p align="center">Be The Hero is an aplication that was designed to help NGO's find "Heroes" to help financially in their causes. It includes a website with front-end and back-end as well as a mobile app. This project was done in the Omnistack week 11.</p>
 
-# Technologies used 🖥
-- :rocket: Frontend: React.js
-- :rocket: Backend: Node.js
-- :rocket: Mobile: React Native
-
 # Pages 🦸
 
 ![image](https://user-images.githubusercontent.com/47838241/77866953-86344280-720b-11ea-8ecb-de13fe58f584.png)
@@ -21,6 +16,11 @@
   <img src="https://user-images.githubusercontent.com/47838241/77867588-43c03500-720e-11ea-8119-2494c14777fd.png" width="49%"/>
   <img src="https://user-images.githubusercontent.com/47838241/77867619-62263080-720e-11ea-9f0f-6661c2d5573d.png" width="49%"/>
 </div>
+
+# Technologies used 🖥
+- :rocket: Frontend: React.js
+- :rocket: Backend: Node.js
+- :rocket: Mobile: React Native
 
 # How to use 👨🏻‍💻
 - Clone this repository and enter it
