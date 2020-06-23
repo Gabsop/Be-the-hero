@@ -22,6 +22,39 @@
   <img src="https://user-images.githubusercontent.com/47838241/77867619-62263080-720e-11ea-9f0f-6661c2d5573d.png" width="49%"/>
 </div>
 
+# How to use 👨🏻‍💻
+- Clone this repository and enter it
+```bash
+ $ git clone https://github.com/Gabsop/Be-The-Hero && cd Be-The-Hero
+ ```
+- Start the back-end server
+```bash
+ $ cd backend/
+ ```
+```bash
+ $ npm start
+ ```
+ - Start the front-end server
+```bash
+ $ cd frontend/
+ ```
+```bash
+ $ npm start
+ ```
+ - Start the mobile app
+```bash
+ $ cd mobile/
+ ```
+```bash
+ $ npm start
+ ```
+ - Leave all terminals opened
+ - The website should open in your browser
+ - To open the app in your smartphone, download the Expo app in the Google/App store and scan the QR code that will appear in the expo website
+ 
+ - Then your in!
+ - I've included some example cases in two NGO's
+
 <blockquote alt="[ignore]">
   <p>
     This project is only for study purposes. The brand, logo and name are non professional.
