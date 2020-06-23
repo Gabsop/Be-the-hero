@@ -22,4 +22,8 @@
   <img src="https://user-images.githubusercontent.com/47838241/77867619-62263080-720e-11ea-9f0f-6661c2d5573d.png" width="49%"/>
 </div>
 
-
+<blockquote alt="[ignore]">
+  <p>
+    This project is only for study purposes. The brand, logo and name are non professional.
+  </p>
+</blockquote>
