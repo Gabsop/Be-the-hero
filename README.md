@@ -2,7 +2,7 @@
     <img alt="Be The hero" src="https://user-images.githubusercontent.com/47838241/77866996-bc71c200-720b-11ea-85ec-3ec47bc95b87.png"/>
 </h1>
 
-<p align="center">Be The Hero is an aplication that was designed to help NGO's find "Heroes" to help financially in their causes. It includes a website with front-end and back-end as well as a mobile app. This project was done in the Omnistack week 11.</p>
+<p align="center">Be The Hero is an application that was designed to help NGO's find "Heroes" to help financially in their causes. It includes a website with front-end and back-end as well as a mobile app. This project was done in the Omnistack week 11.</p>
 
 # Pages 🦸
 
