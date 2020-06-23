@@ -49,7 +49,7 @@
  $ npm start
  ```
  - Leave all terminals opened
- - The website should open in your browser
+ - The website should open automatically in your browser
  - To open the app in your smartphone, download the Expo app in the Google/App store and scan the QR code that will appear in the expo website
  
  - Then your in!
